@@ -11,7 +11,7 @@ This project demonstrates real-time communication between two websites using MQT
 ## Prerequisites
 
 - [Bun](https://bun.sh/) (v1.0 or higher)
-- Node.js (v18 or higher)
+- [Node.js](https://nodejs.org/) (v18 or higher)
 
 ## Setup
 
@@ -61,8 +61,8 @@ bun run dev
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE ](https://github.com/nanonymoussu/mqtt-experimental/LICENSE)file for details.
+This project is licensed under the MIT License. See the [LICENSE ](https://github.com/nanonymoussu/mqtt-experimental/blob/main/LICENSE)file for details.
 
 ```bash
-This `README.md` provides a clear overview of your project, how to set it up, and how to use it. Let me know if you need further adjustments! 😊
+This `README.md` provides a clear overview of your project, how to set it up, and how to use it. Feel free to let me know if you need any more adjustments! 😊
 ```
